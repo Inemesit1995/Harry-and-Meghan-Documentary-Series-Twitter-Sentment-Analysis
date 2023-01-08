@@ -10,8 +10,8 @@ People all around the world have had conflicting views to the series, both on an
 The goal of this project is to carry out a sentiment analysis to measure the perception of Twitter users about this series.
 To achieve my goal, i sought to answer the follwing questions:
 
-1.	The popular hashtags
-2.	The sentiments of users
+1.	The sentiments of users
+2.	The popular hashtags
 3.	The location of most tweets
 
 # Business Use Case
@@ -35,6 +35,8 @@ the following data preprocessing steps:
 5.	Removal of hyperlinks
 6.	Removal of stop words
 
+![](https://github.com/Inemesit1995/Harry-and-Meghan-Documentary-Series-Twitter-Sentment-Analysis/blob/main/Harry_Meghan_Cleaned%20dataframe.png)
+
 # Analysis of Sentiments
 Sentiment analysis is the process of using natural language processing and machine learning techniques to identify and extract subjective information from text. 
 This can include determining the overall sentiment of a piece of text (positive, negative, or neutral), as well as identifying specific emotions and opinions 
@@ -44,10 +46,15 @@ expressed in the text. The polarity of user's sentiment lies between -1 and 1.
 - If the polarity score is equal to zero (= 0), then the sentiment in neutral
 - If the polarity score is greater than 1 (> 1), then the sentiment in positive
 
+![](https://github.com/Inemesit1995/Harry-and-Meghan-Documentary-Series-Twitter-Sentment-Analysis/blob/main/Harry_Meghan_Sentiments_of_users.png)
+
 # Results and Insights
+
+![](https://github.com/Inemesit1995/Harry-and-Meghan-Documentary-Series-Twitter-Sentment-Analysis/blob/main/Harry_Meghan_Dashboard.png)
+
 In the final analysis of the series, 45.35% of the tweets recorded positive sentiments, 24.47% were negative, and 30.18% of the users were neutral in their comments.
 
 **#harryandmegannetflix** with about 5,000 tweets, 58,000 retweets, and 483,000 likes was the most popular hastag for the duration that tweets were scrapped.
 
 Most of the tweets were made by users who did not specify their location. In the preprocessing step, i filled the missing locations with "Unspecified".
-The unspecified location recorded tweets from 6,000 users 
+The unspecified location recorded tweets from 6,000 users.
