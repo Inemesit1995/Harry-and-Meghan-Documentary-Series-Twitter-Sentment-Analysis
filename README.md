@@ -8,7 +8,7 @@ People all around the world have had conflicting views to the series, both on an
 
 # Basis for Analysis
 The goal of this project is to carry out a sentiment analysis to measure the perception of Twitter users about this series.
-To achieve my goal, i sought to answer the follwing questions:
+To achieve my goal, i sought to answer the following questions:
 
 1.	The sentiments of users
 2.	The popular hashtags
