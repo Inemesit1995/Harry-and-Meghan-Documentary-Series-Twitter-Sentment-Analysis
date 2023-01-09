@@ -58,3 +58,8 @@ In the final analysis of the series, 45.35% of the tweets recorded positive sent
 
 Most of the tweets were made by users who did not specify their location. In the preprocessing step, i filled the missing locations with "Unspecified".
 The unspecified location recorded tweets from 6,000 users.
+
+# Conclusion
+The results of the perception of users does not reflect an overwhelming majority in the different sentiment classes. This indicates that the users were deeply divided in their opinion about the contents of the documentary series.
+
+You can read the comprehensive analysis on [medium](https://medium.com/@inemesitumoh/harry-and-meghan-a-sentiment-analysis-of-the-twitter-users-perception-of-the-documentary-series-d303507a7b08)
