@@ -20,7 +20,7 @@ understand how customers feel about their brand, products, or services, and to i
 
 
 # Data Collection
-I collected about 38,933 tweets along side the user's id, date and time of tweet, username, location of the user, retweets, likes using Twitter's API and Python 
+I collected about 38,933 tweets along with the user's id, date and time of tweet, username, location of the user, retweets, and likes using Twitter's API and Python 
 library, tweepy. I also extracted hashtags from each tweets in order to have an insight of the popular hashtags. The duration of the data i collected was between 
 15-12-2022 and 24-12-2022.
 
