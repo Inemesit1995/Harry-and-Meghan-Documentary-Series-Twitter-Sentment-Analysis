@@ -4,7 +4,7 @@
 The Duke and Duchess of Sussex explore the intimate days of their early courtship and the struggles that led to them feeling obliged to step aside from their full-time 
 royal duties in Harry and Meghan, which is a two-volume, six-part documentary series.
 The first three episodes of the first volume premiered on Netflix on Thursday, December 8, 2022, with the second volume following on Thursday, December 15, 2022. 
-People all around the world have had conflicting views to the series, both on and off social media, particularly on Twitter.
+People all around the world have had conflicting views about the series, both on and off social media, particularly on Twitter.
 
 # Basis for Analysis
 The goal of this project is to carry out a sentiment analysis to measure the perception of Twitter users about this series.
