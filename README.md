@@ -59,7 +59,11 @@ In the final analysis of the series, 45.35% of the tweets recorded positive sent
 Most of the tweets were made by users who did not specify their location. In the preprocessing step, i filled the missing locations with "Unspecified".
 The unspecified location recorded tweets from 6,000 users.
 
+From my analysis of tweets, 37.1% of the users were surprised, 26.2% were afraid, 12.0% were happy, 19.6% were sad, and 5.1% were angry. This shows that more users were surprised by the contents of the documentary as was revealed by Harry and Meghan.
+
+![](https://github.com/Inemesit1995/Harry-and-Meghan-Documentary-Series-Twitter-Sentment-Analysis/blob/main/Emotion_Analysis.png)
+
 # Conclusion
-The results of the perception of users does not reflect an overwhelming majority in the different sentiment classes. This indicates that the users were deeply divided in their opinion about the contents of the documentary series.
+The results of the perception of users does not reflect an overwhelming majority in the different sentiment classes. This indicates that the users were deeply divided in their opinion about the contents of the documentary series. The result of the analysis in terms of the emotion indicates that most users were surprised about the series.
 
 You can read the comprehensive analysis on [medium](https://medium.com/@inemesitumoh/harry-and-meghan-a-sentiment-analysis-of-the-twitter-users-perception-of-the-documentary-series-d303507a7b08)
