@@ -34,6 +34,8 @@ the following data preprocessing steps:
 4.	Removal of punctuations
 5.	Removal of hyperlinks
 6.	Removal of stop words
+7.  Tokenisation and removal of stopwords
+8.  Lemmatisation of root of words
 
 ![](https://github.com/Inemesit1995/Harry-and-Meghan-Documentary-Series-Twitter-Sentment-Analysis/blob/main/Harry_Meghan_Cleaned%20dataframe.png)
 
